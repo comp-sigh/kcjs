@@ -20,10 +20,12 @@ body {
 }
 
 hr {
-border-width:1px 0px 0px 0px;
-border-style:solid;
-border-color:#ffd1d1;
-height:1px;
+    margin-top:7px;
+    margin-bottom:7px;
+    border-width:1px 0px 0px 0px;
+    border-style:solid;
+    border-color:#ffd1d1;
+    height:1px;
 }
 
 a:link {
