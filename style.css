@@ -33,11 +33,11 @@ a:hover {
 }
 
 b {
-    color:#83C8FF;
+    color:#ff6060;
 }
 
 i {
-    color:#0EE400;
+    color:#ff6060;
 }
 
 h1 {
@@ -78,29 +78,29 @@ h4 {
     margin:5px auto;
     padding:7px;
     border:3px solid #ffd1d1;
-    -webkit-transition: all .3ms ease-in-out;
-    -moz-transition: all .3ms ease-in-out;
-    -ms-transition: all .3ms ease-in-out;
-    -o-transition: all .3ms ease-in-out;
-    transition: all .3ms ease-in-out;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    -ms-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
 }
 
 #links a:link, a:visited, a:focus, a:active {
     background:none;
     color:#ff8282;
-    -webkit-transition: all .3ms ease-in-out;
-    -moz-transition: all .3ms ease-in-out;
-    -ms-transition: all .3ms ease-in-out;
-    -o-transition: all .3ms ease-in-out;
-    transition: all .3ms ease-in-out;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    -ms-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
 }
 
 #links a:hover {
     background:#ffd1d1;
     color:#fff;
-    -webkit-transition: all .3ms ease-in-out;
-    -moz-transition: all .3ms ease-in-out;
-    -ms-transition: all .3ms ease-in-out;
-    -o-transition: all .3ms ease-in-out;
-    transition: all .3ms ease-in-out;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    -ms-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
 }
