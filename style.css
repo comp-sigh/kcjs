@@ -67,7 +67,7 @@ h4 {
     border:1px solid #ffd1d1;
 }
 
-#butt {
+.butt {
     display:inline-block;
     width:60px;
     margin:5px auto;
@@ -80,7 +80,7 @@ h4 {
     transition: all .3ms ease-in-out;
 }
 
-#butt a:link, a:visited {
+.butt a:link, a:visited {
     text-decoration:none;
     color:#ff8282;
     -webkit-transition: all .3ms ease-in-out;
@@ -90,7 +90,7 @@ h4 {
     transition: all .3ms ease-in-out;
 }
 
-#butt a:hover {
+.butt a:hover {
     text-decoration:none;
     color:#fff;
     -webkit-transition: all .3ms ease-in-out;
@@ -100,7 +100,7 @@ h4 {
     transition: all .3ms ease-in-out;
 }
 
-#butt:hover {
+.butt:hover {
     background:#ffd1d1;
     color:#fff;
     -webkit-transition: all .3ms ease-in-out;
