@@ -61,5 +61,8 @@ h4 {
 }
 
 #content {
-    margin:15% auto;
+    width:60%;
+    margin:35% auto;
+    padding:20%;
+    border:1px solid #ffd1d1;
 }
