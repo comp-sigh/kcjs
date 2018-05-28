@@ -19,6 +19,13 @@ body {
     border-right: 4px solid #fff;
 }
 
+hr {
+border-width:1px 0px 0px 0px;
+border-style:solid;
+border-color:#ffd1d1;
+height:1px;
+}
+
 a:link {
 	color: #666;
 	text-decoration: none; 
