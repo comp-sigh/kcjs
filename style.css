@@ -67,7 +67,11 @@ h4 {
     border:1px solid #ffd1d1;
 }
 
-.butt {
+#links {
+    margin:0 auto;
+}
+
+#links a {
     display:inline-block;
     width:60px;
     margin:5px auto;
@@ -80,32 +84,12 @@ h4 {
     transition: all .3ms ease-in-out;
 }
 
-.butt a:link, a:visited {
-    text-decoration:none;
+#links a:link, a:visited, a:focus, a:active {
+    background:none;
     color:#ff8282;
-    -webkit-transition: all .3ms ease-in-out;
-    -moz-transition: all .3ms ease-in-out;
-    -ms-transition: all .3ms ease-in-out;
-    -o-transition: all .3ms ease-in-out;
-    transition: all .3ms ease-in-out;
 }
 
-.butt a:hover {
-    text-decoration:none;
-    color:#fff;
-    -webkit-transition: all .3ms ease-in-out;
-    -moz-transition: all .3ms ease-in-out;
-    -ms-transition: all .3ms ease-in-out;
-    -o-transition: all .3ms ease-in-out;
-    transition: all .3ms ease-in-out;
-}
-
-.butt:hover {
+#links a:hover {
     background:#ffd1d1;
     color:#fff;
-    -webkit-transition: all .3ms ease-in-out;
-    -moz-transition: all .3ms ease-in-out;
-    -ms-transition: all .3ms ease-in-out;
-    -o-transition: all .3ms ease-in-out;
-    transition: all .3ms ease-in-out;
 }
